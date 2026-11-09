@@ -47,7 +47,7 @@ Average per person, from the simulated portfolio:
  
 The average claim saving over 10 years is about **$160** per person (about $88 over 5 years). The drug costs about $12,000 for each year of use, and course lengths average about 1 year.
  
-![Cardiovascular claim cost over time](claims_over_time.png)
+
  
 ![Claim cost over time including the drug cost](claims_plus_drug.png)
  
