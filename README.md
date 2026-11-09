@@ -1,4 +1,4 @@
-# glp1-cardiovascular-premium-mode
+# glp1-cardiovascular-premium-model
 How a short GLP-1 course changes cardiovascular risk, claims and premiums for diabetic adults (Python, Cox model).
 A simulated cost-benefit model of a short GLP-1 course (0 to 2 years) for diabetic adults. It estimates how course length changes long-term cardiovascular risk and claim costs, and compares the premium with and without GLP-1. Built in Python with a Cox proportional hazards model.
 ## Question
