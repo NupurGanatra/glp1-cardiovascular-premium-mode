@@ -49,10 +49,6 @@ The average claim saving over 10 years is about **$160** per person (about $88 o
  
 
  
-![Claim cost over time including the drug cost](claims_plus_drug.png)
- 
-![Gross premium by age band](premium_by_age_band.png)
- 
 ## Observations
 
 1. **Claims are lower with GLP-1, but the drug costs far more than it saves.** Over 10 years, expected cardiovascular claims are about $7,244 with GLP-1 against $7,405 without, a saving of about $160. The average gross premium is therefore about $2,275 a year for GLP-1 users against $871 for non-users, almost all of the difference being the drug cost.
